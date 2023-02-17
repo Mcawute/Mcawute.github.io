@@ -393,16 +393,16 @@ h2 {
 }
 @keyframes background {
   0% {
-    background-image: url(img/background2.jpg);
+    background-image: url(background2.jpg);
   }
   33% {
-    background-image: url(img/background1.jpg);
+    background-image: url(background1.jpg);
   }
   66% {
-    background-image: url(img/background3.jpg);
+    background-image: url(background3.jpg);
   }
   100% {
-    background-image: url(img/background.jpg);
+    background-image: url(background.jpg);
   }
 }
 
